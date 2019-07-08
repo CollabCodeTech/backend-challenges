@@ -6,7 +6,9 @@ Feel free to contribute! Only open-source challenges please!
 
 | | Company | Stack | Test
 |--|--|--|--
+| :brazil: | [GrupoZap](https://www.grupozap.com/) | Any | [Code →](https://github.com/grupozap/code-challenge/blob/master/backend.md)
 | :netherlands: | [Travix](https://www.travix.com/) | Any | [Code →](https://github.com/Travix-International/tech-test)
+
 
 ## Inspiration
 
