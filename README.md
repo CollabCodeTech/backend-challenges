@@ -6,6 +6,7 @@ Feel free to contribute! Only open-source challenges please!
 
 | | Company | Stack | Test
 |--|--|--|--
+| :us: | [Ambulnz](http://www.ambulnz.com/) | (NodeJS or Ruby) & Any Framework | [Code →](https://github.com/AmbulnzLLC/fullstack-challenge/tree/master/backend)
 | :brazil: | [B2W](https://ri.b2w.digital/) | Java or Elixir | [Code →](https://github.com/b2w-marketplace/challenge-backend)
 | :brazil: | [GrupoZap](https://www.grupozap.com/) | Any Language, REST API | [Code →](https://github.com/grupozap/code-challenge/blob/master/backend.md)
 | :netherlands: | [Travix](https://www.travix.com/) | Any Language | [Code →](https://github.com/Travix-International/tech-test)
