@@ -10,6 +10,7 @@ Feel free to contribute! Only open-source challenges please!
 | :canada: | [AlayaCare - 2](https://www.alayacare.com/) | PHP, Silex, MySQL | [Code →](https://github.com/AlayaCare/backend-php-test)
 | :us: | [Ambulnz](http://www.ambulnz.com/) | (NodeJS or Ruby) & Any Framework | [Code →](https://github.com/AmbulnzLLC/fullstack-challenge/tree/master/backend)
 | :brazil: | [B2W](https://ri.b2w.digital/) | Java or Elixir | [Code →](https://github.com/b2w-marketplace/challenge-backend)
+| :fr: | [Comet](https://www.comet.co/) | Node.js | [Code →](https://github.com/hellocomet/backend-engineer-test)
 | :brazil: | [Creditas](http://creditas.com.br/) | Ruby, Python or Kotlin | [Code →](https://github.com/Creditas/challenge/tree/master/backend)
 | :brazil: | [Cubo Network](https://cubo.network/) | Any Language & Any Framework | [Code →](https://github.com/cubonetwork/fullstack-challenge)
 | :brazil: | [DevPartner](http://www.devpartner.com.br/) | C-Sharp, Entity Framework, Asp.net & Web API | [Code →](https://github.com/DevPartner-BR/backend-projects-test)
