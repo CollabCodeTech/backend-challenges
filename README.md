@@ -8,6 +8,7 @@ Feel free to contribute! Only open-source challenges please!
 |--|--|--|--
 | :brazil: | [GrupoZap](https://www.grupozap.com/) | Any | [Code →](https://github.com/grupozap/code-challenge/blob/master/backend.md)
 | :netherlands: | [Travix](https://www.travix.com/) | Any | [Code →](https://github.com/Travix-International/tech-test)
+| :brazil: | [Zé Delivery](https://www.ze.delivery/) | Any | [Code →](https://github.com/ZeLabs/code-challenge/blob/master/backend.md)
 
 
 ## Inspiration
