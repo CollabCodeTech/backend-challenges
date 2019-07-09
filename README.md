@@ -34,6 +34,7 @@ Feel free to contribute! Only open-source challenges please!
 | :netherlands: | [Travix](https://www.travix.com/) | Any Language | [Code →](https://github.com/Travix-International/tech-test)
 | :brazil: | [UOL Host](https://uolhost.uol.com.br/) | Java & Any Framework | [Code →](https://github.com/uolhost/test-backEnd-Java)
 | :brazil: | [Viva Decora](https://www.vivadecora.com.br/) | Python | [Code →](https://github.com/vivadecora/backend-teste)
+| :cn: | [Wiredcraft](https://wiredcraft.com) | NodeJS, Any Framework, Any Database, REST API | [Code →](https://github.com/Wiredcraft/test-backend)
 | :brazil: | [Zé Delivery](https://www.ze.delivery/) | Any Language, GraphQL or REST API | [Code →](https://github.com/ZeLabs/code-challenge/blob/master/backend.md)
 
 
