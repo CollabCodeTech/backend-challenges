@@ -16,6 +16,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [DevPartner](http://www.devpartner.com.br/) | C-Sharp, Entity Framework, Asp.net & Web API | [Code →](https://github.com/DevPartner-BR/backend-projects-test)
 | :brazil: | [DinDigital](https://dindigital.io/) | PHP, Laravel, Docker | [Code →](https://github.com/DevPartner-BR/backend-projects-test)
 | :brazil: | [Estante Virtual](https://www.estantevirtual.com.br/) | Ruby, REST API | [Code →](https://github.com/estantevirtual/vagas/blob/master/desafios/backend.md)
+| :mexico: | [GCP Global](https://www.gcpglobal.com/) | Java, Hibernate | [Code →](https://github.com/ORCAapplicants/backend-test)
 | :brazil: | [GetNinjas - 1](https://www.getninjas.com.br/) | Any Language & Docker | [Code →](https://github.com/getninjas/backend-rover-challenge)
 | :brazil: | [GetNinjas - 2](https://www.getninjas.com.br/) | Ruby, Rails & Any Database | [Code →](https://github.com/getninjas/backend-challenge)
 | :brazil: | [GrupoZap](https://www.grupozap.com/) | Any Language, REST API | [Code →](https://github.com/grupozap/code-challenge/blob/master/backend.md)
