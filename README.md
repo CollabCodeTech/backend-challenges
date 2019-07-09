@@ -6,9 +6,9 @@ Feel free to contribute! Only open-source challenges please!
 
 | | Company | Stack | Test
 |--|--|--|--
-| :brazil: | [GrupoZap](https://www.grupozap.com/) | Any | [Code →](https://github.com/grupozap/code-challenge/blob/master/backend.md)
-| :netherlands: | [Travix](https://www.travix.com/) | Any | [Code →](https://github.com/Travix-International/tech-test)
-| :brazil: | [Zé Delivery](https://www.ze.delivery/) | Any | [Code →](https://github.com/ZeLabs/code-challenge/blob/master/backend.md)
+| :brazil: | [GrupoZap](https://www.grupozap.com/) | Any Language, REST API | [Code →](https://github.com/grupozap/code-challenge/blob/master/backend.md)
+| :netherlands: | [Travix](https://www.travix.com/) | Any Language | [Code →](https://github.com/Travix-International/tech-test)
+| :brazil: | [Zé Delivery](https://www.ze.delivery/) | Any Language, GraphQL or REST API | [Code →](https://github.com/ZeLabs/code-challenge/blob/master/backend.md)
 
 
 ## Inspiration
