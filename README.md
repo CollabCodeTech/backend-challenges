@@ -6,6 +6,8 @@ Feel free to contribute! Only open-source challenges please!
 
 | | Company | Stack | Test
 |--|--|--|--
+| :gibraltar: | [Addison Global - 1](http://www.addisongloballtd.com/) | Java or Scala, Any Framework & REST API | [Code →](https://github.com/addisonglobal/backend-technical-test)
+| :gibraltar: | [Addison Global - 2](http://www.addisongloballtd.com/) | Java 8+, Akka HTTP or Spring Boot & REST API | [Code →](https://github.com/addisonglobal/java8-technical-testt)
 | :canada: | [AlayaCare - 1](https://www.alayacare.com/) | Python, Flask, SQLite | [Code →](https://github.com/AlayaCare/backend-python-test)
 | :canada: | [AlayaCare - 2](https://www.alayacare.com/) | PHP, Silex, MySQL | [Code →](https://github.com/AlayaCare/backend-php-test)
 | :us: | [Ambulnz](http://www.ambulnz.com/) | (Node.js or Ruby) & Any Framework | [Code →](https://github.com/AmbulnzLLC/fullstack-challenge/tree/master/backend)
