@@ -11,6 +11,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [Creditas](http://creditas.com.br/) | Ruby, Python or Kotlin | [Code →](https://github.com/Creditas/challenge/tree/master/backend)
 | :brazil: | [Cubo Network](https://cubo.network/) | Any Language & Any Framework | [Code →](https://github.com/cubonetwork/fullstack-challenge)
 | :brazil: | [DevPartner](http://www.devpartner.com.br/) | C-Sharp, Entity Framework, Asp.net & Web API | [Code →](https://github.com/DevPartner-BR/backend-projects-test)
+| :brazil: | .[Estante Virtual](https://www.estantevirtual.com.br/) | Ruby | .[Code →](https://github.com/estantevirtual/vagas/blob/master/desafios/backend.md)
 | :brazil: | [GetNinjas - 1](https://www.getninjas.com.br/) | Any Language & Docker | [Code →](https://github.com/getninjas/backend-rover-challenge)
 | :brazil: | [GetNinjas - 2](https://www.getninjas.com.br/) | Ruby, Rails & Any Database | [Code →](https://github.com/getninjas/backend-challenge)
 | :brazil: | [GrupoZap](https://www.grupozap.com/) | Any Language, REST API | [Code →](https://github.com/grupozap/code-challenge/blob/master/backend.md)
