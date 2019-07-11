@@ -10,6 +10,7 @@ Feel free to contribute! Only open-source challenges please!
 | :gibraltar: | [Addison Global - 2](http://www.addisongloballtd.com/) | Java 8+, Akka HTTP or Spring Boot & REST API | [Code →](https://github.com/addisonglobal/java8-technical-testt)
 | :canada: | [AlayaCare - 1](https://www.alayacare.com/) | Python, Flask, SQLite | [Code →](https://github.com/AlayaCare/backend-python-test)
 | :canada: | [AlayaCare - 2](https://www.alayacare.com/) | PHP, Silex, MySQL | [Code →](https://github.com/AlayaCare/backend-php-test)
+| :fr: | [AirCall](https://aircall.io/) | Ruby & Rails | [Code →](https://github.com/aircall/backend-test-5)
 | :us: | [Ambulnz](http://www.ambulnz.com/) | (Node.js or Ruby) & Any Framework | [Code →](https://github.com/AmbulnzLLC/fullstack-challenge/tree/master/backend)
 | :brazil: | [B2W](https://ri.b2w.digital/) | Java or Elixir | [Code →](https://github.com/b2w-marketplace/challenge-backend)
 | :fr: | [Comet](https://www.comet.co/) | Node.js | [Code →](https://github.com/hellocomet/backend-engineer-test)
