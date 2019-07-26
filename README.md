@@ -18,6 +18,8 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [Cubo Network](https://cubo.network/) | Any Language & Any Framework | [Code →](https://github.com/cubonetwork/fullstack-challenge)
 | :brazil: | [DevPartner](http://www.devpartner.com.br/) | C-Sharp, Entity Framework, Asp.net & Web API | [Code →](https://github.com/DevPartner-BR/backend-projects-test)
 | :brazil: | [DinDigital](https://dindigital.io/) | PHP, Laravel, Docker | [Code →](https://github.com/dindigital/teste-back-end-2019)
+| :us: | [Eaze - 1](https://www.eaze.com/) | Node.js or .NET Core | [Code →](https://github.com/eaze/take-home-backend)
+| :us: | [Eaze - 2](https://www.eaze.com/) | .NET, Quartz & Tests | [Code →](https://github.com/eaze/interview-dotnet-test)
 | :brazil: | [Estante Virtual](https://www.estantevirtual.com.br/) | Ruby, REST API | [Code →](https://github.com/estantevirtual/vagas/blob/master/desafios/backend.md)
 | :mexico: | [GCP Global](https://www.gcpglobal.com/) | Java, Hibernate | [Code →](https://github.com/ORCAapplicants/backend-test)
 | :brazil: | [GetNinjas - 1](https://www.getninjas.com.br/) | Any Language & Docker | [Code →](https://github.com/getninjas/backend-rover-challenge)
