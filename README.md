@@ -37,6 +37,7 @@ Feel free to contribute! Only open-source challenges please!
 | :us: | [Ontraport](https://ontraport.com/) | Any Language | [Code →](https://github.com/Ontraport/Backend-Test)
 | :brazil: | [Petlove](https://www.petlove.com.br/) | Ruby, Rails & Any Database | [Code →](https://github.com/petlove/vagas/tree/master/backend-ruby)
 | :brazil: | [PicPay](https://picpay.com/) | Java (Spring Boot), PHP (Lumen) & (MySQL or MongoDB) | [Code →](https://github.com/PicPay/trabalhe-conosco-backend-dev)
+| :brazil: | [Rakuten](https://www.rakuten.com.br/) | Ruby or Elixir | [Code →](https://github.com/RakutenBrasil/backend-code-challenge)
 | :brazil: | [RedFoxTech](https://redfox.tech/) | Node.js, REST API & Any Database | [Code →](https://github.com/RedFoxTech/vaga-backend-teste)
 | :brazil: | [Trackmob](https://trackmob.com.br/) | Ruby & RSpec | [Code →](https://github.com/Trackmob/trackmob-backend-test)
 | :netherlands: | [Travix](https://www.travix.com/) | Any Language | [Code →](https://github.com/Travix-International/tech-test)
