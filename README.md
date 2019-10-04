@@ -46,7 +46,7 @@ Feel free to contribute! Only open-source challenges please!
 | :cn: | [Wiredcraft](https://wiredcraft.com) | Node.js, Any Framework, Any Database, REST API | [Code →](https://github.com/Wiredcraft/test-backend)
 | :indonesia: | [Xendit](https://www.xendit.co/en/) | Node.js, Typescript | [Code →](https://github.com/xendit/backend-coding-test)
 | :brazil: | [Zé Delivery](https://www.ze.delivery/) | Any Language, GraphQL or REST API | [Code →](https://github.com/ZeLabs/code-challenge/blob/master/backend.md)
-
+| :brazil: | [Entria](https://www.entria.com.br) | Node.js, Koa.js, REST API and GraphQL | [Code →](https://github.com/entria/jobs#backend-allocated-or-remote)
 
 ## Inspiration
 
