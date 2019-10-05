@@ -20,6 +20,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [DinDigital](https://dindigital.io/) | PHP, Laravel, Docker | [Code →](https://github.com/dindigital/teste-back-end-2019)
 | :us: | [Eaze - 1](https://www.eaze.com/) | Node.js or .NET Core | [Code →](https://github.com/eaze/take-home-backend)
 | :us: | [Eaze - 2](https://www.eaze.com/) | .NET, Quartz & Tests | [Code →](https://github.com/eaze/interview-dotnet-test)
+| :brazil: | [Entria](https://www.entria.com.br) | Node.js, Koa.js, REST API and GraphQL | [Code →](https://github.com/entria/jobs#backend-allocated-or-remote)
 | :brazil: | [Estante Virtual](https://www.estantevirtual.com.br/) | Ruby, REST API | [Code →](https://github.com/estantevirtual/vagas/blob/master/desafios/backend.md)
 | :mexico: | [GCP Global](https://www.gcpglobal.com/) | Java, Hibernate | [Code →](https://github.com/ORCAapplicants/backend-test)
 | :brazil: | [GetNinjas - 1](https://www.getninjas.com.br/) | Any Language & Docker | [Code →](https://github.com/getninjas/backend-rover-challenge)
@@ -46,7 +47,6 @@ Feel free to contribute! Only open-source challenges please!
 | :cn: | [Wiredcraft](https://wiredcraft.com) | Node.js, Any Framework, Any Database, REST API | [Code →](https://github.com/Wiredcraft/test-backend)
 | :indonesia: | [Xendit](https://www.xendit.co/en/) | Node.js, Typescript | [Code →](https://github.com/xendit/backend-coding-test)
 | :brazil: | [Zé Delivery](https://www.ze.delivery/) | Any Language, GraphQL or REST API | [Code →](https://github.com/ZeLabs/code-challenge/blob/master/backend.md)
-| :brazil: | [Entria](https://www.entria.com.br) | Node.js, Koa.js, REST API and GraphQL | [Code →](https://github.com/entria/jobs#backend-allocated-or-remote)
 
 ## Inspiration
 
