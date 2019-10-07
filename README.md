@@ -37,6 +37,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [iFood - 5](https://www.ifood.com.br/) | Any Language, REST API | [Code →](https://github.com/ifood/ifood-backend-score-test)
 | :brazil: | [iFood - 6](https://www.ifood.com.br/) | Any Language, REST API | [Code →](https://github.com/ifood/ifood-backend-payment-test)
 | :uruguay: | [Ingenious](http://ingenious.agency/) | Ruby, .Net, Node.js or Python | [Code →](https://github.com/ingsw-dev/backend-test)
+| :de: | [Join](https://join.com/) | Node.js, Any Framework & SQL Database | [Code →](https://github.com/join-com/coding-challenge-backend-nodejs)
 | :us: | [Ontraport](https://ontraport.com/) | Any Language | [Code →](https://github.com/Ontraport/Backend-Test)
 | :brazil: | [Petlove](https://www.petlove.com.br/) | Ruby, Rails & Any Database | [Code →](https://github.com/petlove/vagas/tree/master/backend-ruby)
 | :brazil: | [PicPay](https://picpay.com/) | Java (Spring Boot), PHP (Lumen) & (MySQL or MongoDB) | [Code →](https://github.com/PicPay/trabalhe-conosco-backend-dev)
