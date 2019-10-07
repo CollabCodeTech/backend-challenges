@@ -7,7 +7,9 @@ Feel free to contribute! Only open-source challenges please!
 | | Company | Stack | Test
 |--|--|--|--
 | :gibraltar: | [Addison Global - 1](http://www.addisongloballtd.com/) | Java or Scala, Any Framework & REST API | [Code →](https://github.com/addisonglobal/backend-technical-test)
-| :gibraltar: | [Addison Global - 2](http://www.addisongloballtd.com/) | Java 8+, Akka HTTP or Spring Boot & REST API | [Code →](https://github.com/addisonglobal/java8-technical-testt)
+| :gibraltar: | [Addison Global - 2](http://www.addisongloballtd.com/) | Java 8+, Akka HTTP or Spring Boot & REST API | [Code →](https://github.com/addisonglobal/java8-technical-test)
+| :kenya: | [Africa's Talking - 1](https://africastalking.com/) | Scala, Regex | [Code →](https://github.com/AfricasTalkingTalent/BackendCodeChallengeSeptember2018)
+| :kenya: | [Africa's Talking - 2](https://africastalking.com/) | ASP.NET MVC, REST API, SQL Server | [Code →](https://github.com/AfricasTalkingTalent/AlfarBackendChallenge)
 | :canada: | [AlayaCare - 1](https://www.alayacare.com/) | Python, Flask, SQLite | [Code →](https://github.com/AlayaCare/backend-python-test)
 | :canada: | [AlayaCare - 2](https://www.alayacare.com/) | PHP, Silex, MySQL | [Code →](https://github.com/AlayaCare/backend-php-test)
 | :fr: | [AirCall](https://aircall.io/) | Ruby & Rails | [Code →](https://github.com/aircall/backend-test-5)
