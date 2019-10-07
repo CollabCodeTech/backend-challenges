@@ -41,6 +41,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [Rakuten](https://www.rakuten.com.br/) | Ruby or Elixir | [Code →](https://github.com/RakutenBrasil/backend-code-challenge)
 | :brazil: | [RedFoxTech](https://redfox.tech/) | Node.js, REST API & Any Database | [Code →](https://github.com/RedFoxTech/vaga-backend-teste).
 | :brazil: | [Somar Metereologia](http://www.somarmeteorologia.com.br/institucional/) | Python, REST API & AWS or Flask | [Code →](https://github.com/somarmeteorologia/challenge/tree/master/backend)
+| :brazil: | [Stone Payments](http://stone.com.br) | Elixir | [Code →](https://github.com/stone-payments/tech-challenge)
 | :brazil: | [Trackmob](https://trackmob.com.br/) | Ruby & RSpec | [Code →](https://github.com/Trackmob/trackmob-backend-test)
 | :netherlands: | [Travix](https://www.travix.com/) | Any Language | [Code →](https://github.com/Travix-International/tech-test)
 | :brazil: | [UOL Host](https://uolhost.uol.com.br/) | Java & Any Framework | [Code →](https://github.com/uolhost/test-backEnd-Java)
