@@ -27,6 +27,7 @@ Feel free to contribute! Only open-source challenges please!
 | :mexico: | [GCP Global](https://www.gcpglobal.com/) | Java, Hibernate | [Code →](https://github.com/ORCAapplicants/backend-test)
 | :brazil: | [GetNinjas - 1](https://www.getninjas.com.br/) | Any Language & Docker | [Code →](https://github.com/getninjas/backend-rover-challenge)
 | :brazil: | [GetNinjas - 2](https://www.getninjas.com.br/) | Ruby, Rails & Any Database | [Code →](https://github.com/getninjas/backend-challenge)
+| :brazil: | [Goomer](https://goomer.com.br/) | Node.js, REST API, NoSQL | [Code →](https://github.com/goomerdev/job-dev-backend-interview)
 | :brazil: | [GrupoZap](https://www.grupozap.com/) | Any Language, REST API | [Code →](https://github.com/grupozap/code-challenge/blob/master/backend.md)
 | :brazil: | [HurbCom](https://www.hurb.com/) | Any Language & Any Framework | [Code →](https://github.com/hurbcom/challenge-bravo)
 | :brazil: | [iCasei](http://icasei.com.br/) | Ruby, Rails & JavaScript | [Code →](https://github.com/icasei/teste-back-end)
