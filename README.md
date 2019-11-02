@@ -24,6 +24,7 @@ Feel free to contribute! Only open-source challenges please!
 | :us: | [Eaze - 2](https://www.eaze.com/) | .NET, Quartz & Tests | [Code →](https://github.com/eaze/interview-dotnet-test)
 | :brazil: | [Entria](https://www.entria.com.br) | Node.js, Koa.js, REST API and GraphQL | [Code →](https://github.com/entria/jobs#backend-allocated-or-remote)
 | :brazil: | [Estante Virtual](https://www.estantevirtual.com.br/) | Ruby, REST API | [Code →](https://github.com/estantevirtual/vagas/blob/master/desafios/backend.md)
+| :brazil: | [Foton Tech](https://fotontech.co/) | Node.js, GraphQL, MongoDB, Typescript | [Code →](https://github.com/FotonTech/join)
 | :mexico: | [GCP Global](https://www.gcpglobal.com/) | Java, Hibernate | [Code →](https://github.com/ORCAapplicants/backend-test)
 | :brazil: | [GetNinjas - 1](https://www.getninjas.com.br/) | Any Language & Docker | [Code →](https://github.com/getninjas/backend-rover-challenge)
 | :brazil: | [GetNinjas - 2](https://www.getninjas.com.br/) | Ruby, Rails & Any Database | [Code →](https://github.com/getninjas/backend-challenge)
