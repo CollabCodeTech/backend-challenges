@@ -16,6 +16,7 @@ Feel free to contribute! Only open-source challenges please!
 | :us: | [Ambulnz](http://www.ambulnz.com/) | (Node.js or Ruby) & Any Framework | [Code →](https://github.com/AmbulnzLLC/fullstack-challenge/tree/master/backend)
 | :brazil: | [B2W](https://ri.b2w.digital/) | Java or Elixir | [Code →](https://github.com/b2w-marketplace/challenge-backend)
 | :fr: | [Comet](https://www.comet.co/) | Node.js | [Code →](https://github.com/hellocomet/backend-engineer-test)
+| :netherlands: | [Chama App](https://www.chama-app.com.br/) | Any Language | [Code →](https://github.com/chamatheapp/chama-backend-assignment-course-signup)
 | :brazil: | [ClickBus](https://www.clickbus.com.br/) | Java, Spring Boot, REST API | [Code →](https://github.com/RocketBus/quero-ser-clickbus/tree/master/testes/backend-developer)
 | :brazil: | [Creditas](http://creditas.com.br/) | Ruby, Python or Kotlin | [Code →](https://github.com/Creditas/challenge/tree/master/backend)
 | :brazil: | [Cubo Network](https://cubo.network/) | Any Language & Any Framework | [Code →](https://github.com/cubonetwork/fullstack-challenge)
