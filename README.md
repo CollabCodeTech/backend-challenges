@@ -45,10 +45,11 @@ Feel free to contribute! Only open-source challenges please!
 | :de: | [Join](https://join.com/) | Node.js, Any Framework & SQL Database | [Code →](https://github.com/join-com/coding-challenge-backend-nodejs)
 | :us: | [Ontraport](https://ontraport.com/) | Any Language | [Code →](https://github.com/Ontraport/Backend-Test)
 | :brazil: | [Petlove](https://www.petlove.com.br/) | Ruby, Rails & Any Database | [Code →](https://github.com/petlove/vagas/tree/master/backend-ruby)
-| :brazil: | [PicPay](https://picpay.com/) | Java (Spring Boot), PHP (Lumen) & (MySQL or MongoDB) | [Code →](https://github.com/PicPay/trabalhe-conosco-backend-dev)
 | :uk: | [PhotoBox](http://www.photobox.co.uk/) | .NET | [Code →](https://github.com/photobox/Moonpig.Recruitment)
+| :brazil: | [PicPay](https://picpay.com/) | Java (Spring Boot), PHP (Lumen) & (MySQL or MongoDB) | [Code →](https://github.com/PicPay/trabalhe-conosco-backend-dev)
 | :brazil: | [Rakuten](https://www.rakuten.com.br/) | Ruby or Elixir | [Code →](https://github.com/RakutenBrasil/backend-code-challenge)
-| :brazil: | [RedFoxTech](https://redfox.tech/) | Node.js, REST API & Any Database | [Code →](https://github.com/RedFoxTech/vaga-backend-teste).
+| :brazil: | [RedFoxTech](https://redfox.tech/) | Node.js, REST API & Any Database | [Code →](https://github.com/RedFoxTech/vaga-backend-teste)
+| :uk: | [SamKnows](https://www.samknows.com/) | PHP | [Code →](https://github.com/SamKnows/backend-engineering-test/blob/master/README.md)
 | :brazil: | [Somar Metereologia](http://www.somarmeteorologia.com.br/institucional/) | Python, REST API & AWS or Flask | [Code →](https://github.com/somarmeteorologia/challenge/tree/master/backend)
 | :brazil: | [Stone Payments](http://stone.com.br) | Elixir | [Code →](https://github.com/stone-payments/tech-challenge)
 | :brazil: | [Trackmob](https://trackmob.com.br/) | Ruby & RSpec | [Code →](https://github.com/Trackmob/trackmob-backend-test)
@@ -58,7 +59,6 @@ Feel free to contribute! Only open-source challenges please!
 | :cn: | [Wiredcraft](https://wiredcraft.com) | Node.js, Any Framework, Any Database, REST API | [Code →](https://github.com/Wiredcraft/test-backend)
 | :indonesia: | [Xendit](https://www.xendit.co/en/) | Node.js, Typescript | [Code →](https://github.com/xendit/backend-coding-test)
 | :brazil: | [Zé Delivery](https://www.ze.delivery/) | Any Language, GraphQL or REST API | [Code →](https://github.com/ZeLabs/code-challenge/blob/master/backend.md)
-| :uk: | [SamKnows](https://www.samknows.com/) | PHP | [Code →](https://github.com/SamKnows/backend-engineering-test/blob/master/README.md)
 
 ## Inspiration
 
