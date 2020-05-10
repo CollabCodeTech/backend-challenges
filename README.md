@@ -56,7 +56,7 @@ Feel free to contribute! Only open-source challenges please!
 | :indonesia: | [Xendit](https://www.xendit.co/en/) | Node.js, Typescript | [Code →](https://github.com/xendit/backend-coding-test)
 | :brazil: | [Zé Delivery](https://www.ze.delivery/) | Any Language, GraphQL or REST API | [Code →](https://github.com/ZeLabs/code-challenge/blob/master/backend.md)
 | :uk: | [SamKnows](https://www.samknows.com/) | PHP | [Code →](https://github.com/SamKnows/backend-engineering-test/blob/master/README.md)
-
+| :brazil: | [Wirecard Brasil](https://wirecard.com.br/) | Any Language, REST API | [Code →](https://github.com/wirecardBrasil/challenge/tree/master/backend)
 ## Inspiration
 
 Inspired on [Felipe Fialho](https://github.com/felipefialho)'s [frontend-challenges](https://github.com/felipefialho/frontend-challenges). Kudos!
