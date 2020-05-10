@@ -46,17 +46,17 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [PicPay](https://picpay.com/) | Java (Spring Boot), PHP (Lumen) & (MySQL or MongoDB) | [Code →](https://github.com/PicPay/trabalhe-conosco-backend-dev)
 | :brazil: | [Rakuten](https://www.rakuten.com.br/) | Ruby or Elixir | [Code →](https://github.com/RakutenBrasil/backend-code-challenge)
 | :brazil: | [RedFoxTech](https://redfox.tech/) | Node.js, REST API & Any Database | [Code →](https://github.com/RedFoxTech/vaga-backend-teste).
+| :uk: | [SamKnows](https://www.samknows.com/) | PHP | [Code →](https://github.com/SamKnows/backend-engineering-test/blob/master/README.md)
 | :brazil: | [Somar Metereologia](http://www.somarmeteorologia.com.br/institucional/) | Python, REST API & AWS or Flask | [Code →](https://github.com/somarmeteorologia/challenge/tree/master/backend)
 | :brazil: | [Stone Payments](http://stone.com.br) | Elixir | [Code →](https://github.com/stone-payments/tech-challenge)
 | :brazil: | [Trackmob](https://trackmob.com.br/) | Ruby & RSpec | [Code →](https://github.com/Trackmob/trackmob-backend-test)
 | :netherlands: | [Travix](https://www.travix.com/) | Any Language | [Code →](https://github.com/Travix-International/tech-test)
 | :brazil: | [UOL Host](https://uolhost.uol.com.br/) | Java & Any Framework | [Code →](https://github.com/uolhost/test-backEnd-Java)
 | :brazil: | [Viva Decora](https://www.vivadecora.com.br/) | Python | [Code →](https://github.com/vivadecora/backend-teste)
+| :brazil: | [Wirecard Brasil](https://wirecard.com.br/) | Any Language, REST API | [Code →](https://github.com/wirecardBrasil/challenge/tree/master/backend)
 | :cn: | [Wiredcraft](https://wiredcraft.com) | Node.js, Any Framework, Any Database, REST API | [Code →](https://github.com/Wiredcraft/test-backend)
 | :indonesia: | [Xendit](https://www.xendit.co/en/) | Node.js, Typescript | [Code →](https://github.com/xendit/backend-coding-test)
 | :brazil: | [Zé Delivery](https://www.ze.delivery/) | Any Language, GraphQL or REST API | [Code →](https://github.com/ZeLabs/code-challenge/blob/master/backend.md)
-| :uk: | [SamKnows](https://www.samknows.com/) | PHP | [Code →](https://github.com/SamKnows/backend-engineering-test/blob/master/README.md)
-| :brazil: | [Wirecard Brasil](https://wirecard.com.br/) | Any Language, REST API | [Code →](https://github.com/wirecardBrasil/challenge/tree/master/backend)
 ## Inspiration
 
 Inspired on [Felipe Fialho](https://github.com/felipefialho)'s [frontend-challenges](https://github.com/felipefialho/frontend-challenges). Kudos!
