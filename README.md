@@ -46,6 +46,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [iFood - 6](https://www.ifood.com.br/) | Any Language, REST API | [Code →](https://github.com/ifood/ifood-backend-payment-test)
 | :uruguay: | [Ingenious](http://ingenious.agency/) | Ruby, .Net, Node.js or Python | [Code →](https://github.com/ingsw-dev/backend-test)
 | :de: | [Join](https://join.com/) | Node.js, Any Framework & SQL Database | [Code →](https://github.com/join-com/coding-challenge-backend-nodejs)
+| :brazil: | [Olist](https://olist.com/) | Python or Go | [Code →](https://github.com/olist/work-at-olist)
 | :us: | [Ontraport](https://ontraport.com/) | Any Language | [Code →](https://github.com/Ontraport/Backend-Test)
 | :canada: | [Paytm Labs - 1](https://paytmlabs.com/) | (Machine Learning) Java or Scala & Hadoop or Spark | [Code →](https://github.com/PaytmLabs/WeblogChallenge)
 | :canada: | [Paytm Labs - 2](https://paytmlabs.com/) | Any Language | [Code →](https://github.com/PaytmLabs/SoftwareChallenge)
