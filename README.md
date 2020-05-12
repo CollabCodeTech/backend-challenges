@@ -56,6 +56,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [Stone Payments](http://stone.com.br) | Elixir | [Code →](https://github.com/stone-payments/tech-challenge)
 | :brazil: | [Trackmob](https://trackmob.com.br/) | Ruby & RSpec | [Code →](https://github.com/Trackmob/trackmob-backend-test)
 | :netherlands: | [Travix](https://www.travix.com/) | Any Language | [Code →](https://github.com/Travix-International/tech-test)
+| :us: | [Uber](https://www.uber.com/) | Any Language | [Code →](https://github.com/uber-archive/coding-challenge-tools/blob/master/coding_challenge.md)
 | :brazil: | [UOL Host](https://uolhost.uol.com.br/) | Java & Any Framework | [Code →](https://github.com/uolhost/test-backEnd-Java)
 | :brazil: | [Viva Decora](https://www.vivadecora.com.br/) | Python | [Code →](https://github.com/vivadecora/backend-teste)
 | :brazil: | [Wirecard Brasil](https://wirecard.com.br/) | Any Language, REST API | [Code →](https://github.com/wirecardBrasil/challenge/tree/master/backend)
