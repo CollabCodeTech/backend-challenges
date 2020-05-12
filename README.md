@@ -44,6 +44,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [iFood - 6](https://www.ifood.com.br/) | Any Language, REST API | [Code →](https://github.com/ifood/ifood-backend-payment-test)
 | :uruguay: | [Ingenious](http://ingenious.agency/) | Ruby, .Net, Node.js or Python | [Code →](https://github.com/ingsw-dev/backend-test)
 | :de: | [Join](https://join.com/) | Node.js, Any Framework & SQL Database | [Code →](https://github.com/join-com/coding-challenge-backend-nodejs)
+| :brazil: | [Olist](https://olist.com/) | Python or Go | [Code →](https://github.com/olist/work-at-olist)
 | :us: | [Ontraport](https://ontraport.com/) | Any Language | [Code →](https://github.com/Ontraport/Backend-Test)
 | :brazil: | [Petlove](https://www.petlove.com.br/) | Ruby, Rails & Any Database | [Code →](https://github.com/petlove/vagas/tree/master/backend-ruby)
 | :uk: | [PhotoBox](http://www.photobox.co.uk/) | .NET | [Code →](https://github.com/photobox/Moonpig.Recruitment)
