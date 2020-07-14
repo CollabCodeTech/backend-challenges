@@ -48,6 +48,7 @@ Feel free to contribute! Only open-source challenges please!
 | :de: | [Join](https://join.com/) | Node.js, Any Framework & SQL Database | [Code →](https://github.com/join-com/coding-challenge-backend-nodejs)
 | :brazil: | [Olist](https://olist.com/) | Python or Go | [Code →](https://github.com/olist/work-at-olist)
 | :us: | [Ontraport](https://ontraport.com/) | Any Language | [Code →](https://github.com/Ontraport/Backend-Test)
+| :brazil: | [PagarMe](https://pagar.me/) | Node.js, REST API | [Code →](https://github.com/pagarme/vagas/blob/master/desafios/software-engineer-backend/README.md)
 | :canada: | [Paytm Labs - 1](https://paytmlabs.com/) | (Machine Learning) Java or Scala & Hadoop or Spark | [Code →](https://github.com/PaytmLabs/WeblogChallenge)
 | :canada: | [Paytm Labs - 2](https://paytmlabs.com/) | Any Language | [Code →](https://github.com/PaytmLabs/SoftwareChallenge)
 | :brazil: | [Petlove](https://www.petlove.com.br/) | Ruby, Rails & Any Database | [Code →](https://github.com/petlove/vagas/tree/master/backend-ruby)
