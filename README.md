@@ -19,7 +19,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [B2W](https://ri.b2w.digital/) | Java or Elixir | [Code →](https://github.com/b2w-marketplace/challenge-backend)
 | :brazil: | [Bossabox](https://bossabox.com/para-profissionais) | Any Language & Any Framework & Web API | [Code →](https://www.notion.so/Back-end-0b2c45f1a00e4a849eefe3b1d57f23c6)
 | :fr: | [Comet](https://www.comet.co/) | Node.js | [Code →](https://github.com/hellocomet/backend-engineer-test)
-| :netherlands: | [Chama App](https://www.chama-app.com.br/) | Any Language | [Code →](https://github.com/chamatheapp/chama-backend-assignment-course-signup)
+| :netherlands: | [Chama App](https://www.chama-app.com.br/) | C-Sharp | [Code →](https://github.com/chamatheapp/chama-backend-assignment-course-signup)
 | :brazil: | [ClickBus](https://www.clickbus.com.br/) | Java, Spring Boot, REST API | [Code →](https://github.com/RocketBus/quero-ser-clickbus/tree/master/testes/backend-developer)
 | :brazil: | [Creditas](http://creditas.com.br/) | Ruby, Python or Kotlin | [Code →](https://github.com/Creditas/challenge/tree/master/backend)
 | :brazil: | [Cubo Network](https://cubo.network/) | Any Language & Any Framework | [Code →](https://github.com/cubonetwork/fullstack-challenge)
