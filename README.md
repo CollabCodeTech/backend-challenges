@@ -16,6 +16,7 @@ Feel free to contribute! Only open-source challenges please!
 | :fr: | [AirCall](https://aircall.io/) | Ruby & Rails | [Code →](https://github.com/aircall/backend-test-5)
 | :brazil: | [Amaro](https://amaro.com/) | PHP | [Code →](https://github.com/amarofashion/back-end-challenge)
 | :us: | [Ambulnz](http://www.ambulnz.com/) | (Node.js or Ruby) & Any Framework | [Code →](https://github.com/AmbulnzLLC/fullstack-challenge/tree/master/backend)
+| :brazil: | [BCredi](https://www.bcredi.com.br/) | Java or Ruby | [Code →](https://github.com/bcredi/teste-backends)
 | :brazil: | [B2W](https://ri.b2w.digital/) | Java or Elixir | [Code →](https://github.com/b2w-marketplace/challenge-backend)
 | :brazil: | [Bossabox](https://bossabox.com/para-profissionais) | Any Language & Any Framework & Web API | [Code →](https://www.notion.so/Back-end-0b2c45f1a00e4a849eefe3b1d57f23c6)
 | :fr: | [Comet](https://www.comet.co/) | Node.js | [Code →](https://github.com/hellocomet/backend-engineer-test)
