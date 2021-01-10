@@ -21,7 +21,6 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [B2W](https://ri.b2w.digital/) | Java or Elixir | [Code →](https://github.com/b2w-marketplace/challenge-backend)
 | :brazil: | [Bossabox](https://bossabox.com/para-profissionais) | Any Language & Any Framework & Web API | [Code →](https://www.notion.so/Back-end-0b2c45f1a00e4a849eefe3b1d57f23c6)
 | :brazil: | [Brainn](https://brainn.co/) | Elixir | [Code →](https://github.com/brainn-co/exercise-developer)
-| :fr: | [Comet](https://www.comet.co/) | Node.js | [Code →](https://github.com/hellocomet/backend-engineer-test)
 | :netherlands: | [Chama App](https://www.chama-app.com.br/) | C-Sharp | [Code →](https://github.com/chamatheapp/chama-backend-assignment-course-signup)
 | :brazil: | [ClickBus](https://www.clickbus.com.br/) | Java, Spring Boot, REST API | [Code →](https://github.com/RocketBus/quero-ser-clickbus/tree/master/testes/backend-developer)
 | :brazil: | [Creditas](http://creditas.com.br/) | Ruby, Python or Kotlin | [Code →](https://github.com/Creditas/challenge/tree/master/backend)
@@ -69,8 +68,6 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [Viva Decora](https://www.vivadecora.com.br/) | Python | [Code →](https://github.com/vivadecora/backend-teste)
 | :brazil: | [Wirecard Brasil](https://wirecard.com.br/) | Any Language, REST API | [Code →](https://github.com/wirecardBrasil/challenge/tree/master/backend)
 | :cn: | [Wiredcraft](https://wiredcraft.com) | Node.js, Any Framework, Any Database, REST API | [Code →](https://github.com/Wiredcraft/test-backend)
-| :indonesia: | [Xendit](https://www.xendit.co/en/) | Node.js, Typescript | [Code →](https://github.com/xendit/backend-coding-test)
-| :brazil: | [Zé Delivery](https://www.ze.delivery/) | Any Language, GraphQL or REST API | [Code →](https://github.com/ZeLabs/code-challenge/blob/master/backend.md)
 
 ## Inspiration
 
