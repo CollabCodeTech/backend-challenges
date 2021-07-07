@@ -46,6 +46,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [iFood - 5](https://www.ifood.com.br/) | Any Language, REST API | [Code →](https://github.com/ifood/ifood-backend-score-test)
 | :brazil: | [iFood - 6](https://www.ifood.com.br/) | Any Language, REST API | [Code →](https://github.com/ifood/ifood-backend-payment-test)
 | :uruguay: | [Ingenious](http://ingenious.agency/) | Ruby, .Net, Node.js or Python | [Code →](https://github.com/ingsw-dev/backend-test)
+| :brazil: | [Kinvo](https://kinvo.com.br/) | C#, REST API | [Code →](https://github.com/kinvoapp/kinvo-back-end-test)
 | :brazil: | [Olist](https://olist.com/) | Python or Go | [Code →](https://github.com/olist/work-at-olist)
 | :us: | [Ontraport](https://ontraport.com/) | Any Language | [Code →](https://github.com/Ontraport/Backend-Test)
 | :brazil: | [PagarMe](https://pagar.me/) | Node.js, REST API | [Code →](https://github.com/pagarme/vagas/blob/master/desafios/software-engineer-backend/README.md)
