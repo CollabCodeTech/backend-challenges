@@ -20,7 +20,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [BCredi](https://www.bcredi.com.br/) | Java or Ruby | [Code →](https://github.com/bcredi/teste-backends)
 | :brazil: | [B2W](https://ri.b2w.digital/) | Java or Elixir | [Code →](https://github.com/b2w-marketplace/challenge-backend)
 | :brazil: | [Bossabox](https://bossabox.com/para-profissionais) | Any Language & Any Framework & Web API | [Code →](https://www.notion.so/Back-end-0b2c45f1a00e4a849eefe3b1d57f23c6)
-| :brazil: | [Brainn](https://brainn.co/) | Elixir | [Code →](https://github.com/brainn-co/exercise-developer)
+| :brazil: | [Brainn](https://brainn.co/) | Elixir | [Code →](https://github.com/brainnco-exs/readme-backend)
 | :netherlands: | [Chama App](https://www.chama-app.com.br/) | C-Sharp | [Code →](https://github.com/chamatheapp/chama-backend-assignment-course-signup)
 | :brazil: | [ClickBus](https://www.clickbus.com.br/) | Java, Spring Boot, REST API | [Code →](https://github.com/RocketBus/quero-ser-clickbus/tree/master/testes/backend-developer)
 | :brazil: | [Creditas](http://creditas.com.br/) | Ruby, Python or Kotlin | [Code →](https://github.com/Creditas/challenge/tree/master/backend)
