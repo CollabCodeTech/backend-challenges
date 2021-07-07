@@ -63,7 +63,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [UOL Host](https://uolhost.uol.com.br/) | Java & Any Framework | [Code →](https://github.com/uolhost/test-backEnd-Java)
 | :brazil: | [Wirecard Brasil](https://wirecard.com.br/) | Any Language, REST API | [Code →](https://github.com/wirecardBrasil/challenge/tree/master/backend)
 | :cn: | [Wiredcraft](https://wiredcraft.com) | Node.js, Any Framework, Any Database, REST API | [Code →](https://github.com/Wiredcraft/test-backend)
-| :brazil: | [Zé Delivery](https://www.ze.delivery) | Any Language, REST API | [Code →](https://github.com/ZXVentures/ze-code-challenges/blob/master/backend.md)
+| :brazil: | [Zé Delivery](https://www.ze.delivery) | Any Language, REST API or GraphQL | [Code →](https://github.com/ZXVentures/ze-code-challenges/blob/master/backend.md)
 
 ## Inspiration
 
