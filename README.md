@@ -56,6 +56,7 @@ Feel free to contribute! Only open-source challenges please!
 | :uk: | [PhotoBox](http://www.photobox.co.uk/) | .NET | [Code →](https://github.com/photobox/Moonpig.Recruitment)
 | :brazil: | [PicPay](https://picpay.com/) | Java (Spring Boot), PHP (Lumen) & (MySQL or MongoDB) | [Code →](https://github.com/PicPay/trabalhe-conosco-backend-dev)
 | :brazil: | [RedFoxTech](https://redfox.tech/) | Node.js, REST API & Any Database | [Code →](https://github.com/RedFoxTech/vaga-backend-teste)
+| :brazil: | [Riderize](https://www.riderize.com/) | Node.js & GraphQL | [Code →](https://github.com/Riderize/backend-test)
 | :uk: | [SamKnows](https://www.samknows.com/) | PHP | [Code →](https://github.com/SamKnows/backend-engineering-test/blob/master/README.md)
 | :brazil: | [Somar Metereologia](http://www.somarmeteorologia.com.br/institucional/) | Python, REST API & AWS or Flask | [Code →](https://github.com/somarmeteorologia/challenge/tree/master/backend)
 | :brazil: | [Stone Payments](http://stone.com.br) | Elixir | [Code →](https://github.com/stone-payments/tech-challenge)
