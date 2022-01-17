@@ -49,6 +49,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [Kinvo](https://kinvo.com.br/) | C#, REST API | [Code →](https://github.com/kinvoapp/kinvo-back-end-test)
 | :brazil: | [Olist](https://olist.com/) | Python or Go | [Code →](https://github.com/olist/work-at-olist)
 | :us: | [Ontraport](https://ontraport.com/) | Any Language | [Code →](https://github.com/Ontraport/Backend-Test)
+| :us: | [Origin Financial](https://www.useorigin.com/) | Any Language | [Code →](https://github.com/OriginFinancial/origin-backend-take-home-assignment)
 | :brazil: | [PagarMe](https://pagar.me/) | Node.js, REST API | [Code →](https://github.com/pagarme/vagas/blob/master/desafios/software-engineer-backend/README.md)
 | :canada: | [Paytm Labs - 1](https://paytmlabs.com/) | (Machine Learning) Java or Scala & Hadoop or Spark | [Code →](https://github.com/PaytmLabs/WeblogChallenge)
 | :canada: | [Paytm Labs - 2](https://paytmlabs.com/) | Any Language | [Code →](https://github.com/PaytmLabs/SoftwareChallenge)
