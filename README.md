@@ -23,6 +23,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [Brainn](https://brainn.co/) | Elixir | [Code →](https://github.com/brainnco-exs/readme-backend)
 | :netherlands: | [Chama App](https://www.chama-app.com.br/) | C-Sharp | [Code →](https://github.com/chamatheapp/chama-backend-assignment-course-signup)
 | :brazil: | [ClickBus](https://www.clickbus.com.br/) | Java, Spring Boot, REST API | [Code →](https://github.com/RocketBus/quero-ser-clickbus/tree/master/testes/backend-developer)
+| :hungary: | [CodingSans](https://codingsans.com/) | Node.js, Typescript & Koa, Express or Fastify | [Code →](https://gitlab.com/codingsans/public/codingsans-backend-test)
 | :brazil: | [Creditas](http://creditas.com.br/) | Ruby, Python or Kotlin | [Code →](https://github.com/Creditas/challenge/tree/master/backend)
 | :brazil: | [Cubo Network](https://cubo.network/) | Any Language & Any Framework | [Code →](https://github.com/cubonetwork/fullstack-challenge)
 | :brazil: | [DevPartner](http://www.devpartner.com.br/) | C-Sharp, Entity Framework, Asp.net & Web API | [Code →](https://github.com/DevPartner-BR/backend-projects-test)
