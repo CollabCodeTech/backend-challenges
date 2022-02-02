@@ -52,6 +52,7 @@ Feel free to contribute! Only open-source challenges please!
 | :uruguay: | [Ingenious](http://ingenious.agency/) | Ruby, .Net, Node.js or Python | [Code →](https://github.com/ingsw-dev/backend-test)
 | :brazil: | [Kinvo](https://kinvo.com.br/) | C#, REST API | [Code →](https://github.com/kinvoapp/kinvo-back-end-test)
 | :brazil: | [Olist](https://olist.com/) | Python or Go | [Code →](https://github.com/olist/work-at-olist)
+| :brazil: | [Oli Saúde](https://www.olisaude.com.br/) | Any Language & Any Framework | [Code →](https://github.com/olisaude/teste-dev-backend)
 | :us: | [Ontraport](https://ontraport.com/) | Any Language | [Code →](https://github.com/Ontraport/Backend-Test)
 | :brazil: | [Orbital](https://orbital.company/) | .NET | [Code →](https://gitlab.com/orbital-code/orbital/tests/backend-developer/-/tree/master)
 | :us: | [Origin Financial](https://www.useorigin.com/) | Any Language | [Code →](https://github.com/OriginFinancial/origin-backend-take-home-assignment)
