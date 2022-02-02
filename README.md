@@ -59,6 +59,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [RedFoxTech](https://redfox.tech/) | Node.js, REST API & Any Database | [Code →](https://github.com/RedFoxTech/vaga-backend-teste)
 | :brazil: | [Riderize](https://www.riderize.com/) | Node.js & GraphQL | [Code →](https://github.com/Riderize/backend-test)
 | :uk: | [SamKnows](https://www.samknows.com/) | PHP | [Code →](https://github.com/SamKnows/backend-engineering-test/blob/master/README.md)
+| :brazil: | [Senior Sistemas](https://www.senior.com.br) | Any Language, Any Database, REST API | [Code →](https://github.com/SeniorSA/seniorlabs-challenge#desafio-software-engineering)
 | :brazil: | [Somar Metereologia](http://www.somarmeteorologia.com.br/institucional/) | Python, REST API & AWS or Flask | [Code →](https://github.com/somarmeteorologia/challenge/tree/master/backend)
 | :brazil: | [Stone Payments](http://stone.com.br) | Elixir | [Code →](https://github.com/stone-payments/tech-challenge)
 | :netherlands: | [Travix](https://www.travix.com/) | Any Language | [Code →](https://github.com/Travix-International/tech-test)
@@ -67,7 +68,6 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [Wirecard Brasil](https://wirecard.com.br/) | Any Language, REST API | [Code →](https://github.com/wirecardBrasil/challenge/tree/master/backend)
 | :cn: | [Wiredcraft](https://wiredcraft.com) | Node.js, Any Framework, Any Database, REST API | [Code →](https://github.com/Wiredcraft/test-backend)
 | :brazil: | [Zé Delivery](https://www.ze.delivery) | Any Language, REST API or GraphQL | [Code →](https://github.com/ZXVentures/ze-code-challenges/blob/master/backend.md)
-| :brazil: | [Senior Sistemas](https://www.senior.com.br) | Any Language, Any Database, REST API | [Code →](https://github.com/SeniorSA/seniorlabs-challenge#desafio-software-engineering)
 
 ## Inspiration
 
