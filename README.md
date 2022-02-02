@@ -1,6 +1,8 @@
 # Backend Challenges
 
-![Last Commit Date Shield Badge](https://img.shields.io/github/last-commit/CollabCodeTech/backend-challenges?color=F25A70&logo=github&style=for-the-badge) ![Contributors Shield Badge](https://img.shields.io/github/contributors-anon/CollabCodeTech/backend-challenges?color=F25A70&logo=github&style=for-the-badge)
+![Last Commit Date Shield Badge](https://img.shields.io/github/last-commit/CollabCodeTech/backend-challenges?color=F25A70&logo=github&style=for-the-badge)
+![Contributors Shield Badge](https://img.shields.io/github/contributors-anon/CollabCodeTech/backend-challenges?color=F25A70&logo=github&style=for-the-badge)
+<a href="https://bit.ly/discord_collabcode"><img src="https://img.shields.io/discord/462784660829896714?color=F25A70&label=Join%20Collabcode%20Discord&logo=discord&logoColor=F25A70&style=for-the-badge" alt="Join CollabCode's Discord"/></a>
 
 Want to test your knowledge using real jobs challenges? Here is a public list of open-source challenges from jobs around the world.
 
