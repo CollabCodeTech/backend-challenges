@@ -56,7 +56,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [Olist](https://olist.com/) | Python or Go | [Code →](https://github.com/olist/work-at-olist)
 | :brazil: | [Oli Saúde](https://www.olisaude.com.br/) | Any Language & Any Framework | [Code →](https://github.com/olisaude/teste-dev-backend)
 | :us: | [Ontraport](https://ontraport.com/) | Any Language | [Code →](https://github.com/Ontraport/Backend-Test)
-| :brazil: | [Orbital](https://orbital.company/) | .NET | [Code →](https://gitlab.com/orbital-code/orbital/tests/backend-developer/-/tree/master)
+| :brazil: | [Orbital](https://orbital.company/) | PHP | [Code →](https://gitlab.com/orbital-code/orbital/tests/backend-developer/-/tree/master)
 | :us: | [Origin Financial](https://www.useorigin.com/) | Any Language | [Code →](https://github.com/OriginFinancial/origin-backend-take-home-assignment)
 | :brazil: | [PagarMe](https://pagar.me/) | Node.js, REST API | [Code →](https://github.com/pagarme/vagas/blob/master/desafios/software-engineer-backend/README.md)
 | :canada: | [Paytm Labs - 1](https://paytmlabs.com/) | (Machine Learning) Java or Scala & Hadoop or Spark | [Code →](https://github.com/PaytmLabs/WeblogChallenge)
