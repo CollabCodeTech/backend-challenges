@@ -44,7 +44,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [GetNinjas - 2](https://www.getninjas.com.br/) | Ruby, Rails & Any Database | [Code →](https://github.com/getninjas/backend-challenge)
 | :brazil: | [Goomer](https://goomer.com.br/) | Node.js, REST API, MySQL or Postgres | [Code →](https://github.com/goomerdev/job-dev-backend-interview)
 | :brazil: | [HurbCom](https://www.hurb.com/) | Any Language & Any Framework | [Code →](https://github.com/hurbcom/challenge-bravo)
-| :brazil: | [iCasei](http://icasei.com.br/) | Ruby, Rails & JavaScript | [Code →](https://github.com/icasei/teste-back-end)
+| :brazil: | [iCasei](http://icasei.com.br/) | Ruby, Rails & JavaScript | [Code →](https://github.com/icasei/teste-backend)
 | :brazil: | [iFood - 1](https://www.ifood.com.br/) | Any Language, REST API | [Code →](https://github.com/ifood/vemproifood-backend)
 | :brazil: | [iFood - 2](https://www.ifood.com.br/) | Any Language, Microservice | [Code →](https://github.com/ifood/ifood-backend-menu-test)
 | :brazil: | [iFood - 3](https://www.ifood.com.br/) | Java, Spring Boot, REST API | [Code →](https://github.com/ifood/ifood-backend-basic-test)
