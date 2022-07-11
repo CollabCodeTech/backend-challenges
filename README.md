@@ -22,7 +22,7 @@ Feel free to contribute! Only open-source challenges please!
 | :us: | [Ambulnz](http://www.ambulnz.com/) | (Node.js or Ruby) & Any Framework | [Code →](https://github.com/AmbulnzLLC/fullstack-challenge/tree/master/backend)
 | :brazil: | [AmeDigital](https://www.amedigital.com/) | Kotlin, Scala, Java | [Code →](https://github.com/AmeDigital/challenge-back-end-hit)
 | :uk: | [Apolitical](https://apolitical.co/home) | Node.js, Express, Docker | [Code →](https://gitlab.com/apolitical/code-tests/backend-code-challenge)
-| :brazil: | [BCredi](https://www.bcredi.com.br/) | Java or Ruby | [Code →](https://github.com/bcredi/teste-backends)
+| :brazil: | [BCredi](https://www.creditas.com/bcredi) | Java or Ruby | [Code →](https://github.com/bcredi/teste-backends)
 | :brazil: | [B2W](https://ri.americanas.io/) | Java or Elixir | [Code →](https://github.com/b2w-marketplace/challenge-backend)
 | :brazil: | [Bossabox](https://bossabox.com/para-profissionais) | Any Language & Any Framework & Web API | [Code →](https://www.notion.so/Back-end-0b2c45f1a00e4a849eefe3b1d57f23c6)
 | :brazil: | [Brainn](https://brainn.co/) | Elixir | [Code →](https://github.com/brainnco-exs/readme-backend)
