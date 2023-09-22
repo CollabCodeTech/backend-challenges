@@ -27,6 +27,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [Bossabox](https://bossabox.com/para-profissionais) | Any Language & Any Framework & Web API | [Code →](https://www.notion.so/Back-end-0b2c45f1a00e4a849eefe3b1d57f23c6)
 | :brazil: | [Brainn](https://brainn.co/) | Elixir | [Code →](https://github.com/brainnco-exs/readme-backend)
 | :brazil: | [ClickBus](https://www.clickbus.com.br/) | Java, Spring Boot, REST API | [Code →](https://github.com/RocketBus/quero-ser-clickbus/tree/master/testes/backend-developer)
+| :brazil: | [CodeRockr](https://coderockr.com/) | Any Language & Any Framework | [Code →](https://github.com/Coderockr/backend-test)
 | :hungary: | [CodingSans](https://codingsans.com/) | Node.js, Typescript & Koa, Express or Fastify | [Code →](https://gitlab.com/codingsans/public/codingsans-backend-test)
 | :brazil: | [Creditas](http://creditas.com.br/) | Ruby, Python or Kotlin | [Code →](https://github.com/Creditas/challenge/tree/master/backend)
 | :brazil: | [Cubo Network](https://cubo.network/) | Any Language & Any Framework | [Code →](https://github.com/cubonetwork/fullstack-challenge)
