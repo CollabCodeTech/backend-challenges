@@ -21,6 +21,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [Amaro](https://amaro.com/) | PHP | [Code →](https://github.com/amarofashion/back-end-challenge)
 | :us: | [Ambulnz](http://www.ambulnz.com/) | (Node.js or Ruby) & Any Framework | [Code →](https://github.com/AmbulnzLLC/fullstack-challenge/tree/master/backend)
 | :brazil: | [AmeDigital](https://www.amedigital.com/) | Kotlin, Scala, Java | [Code →](https://github.com/AmeDigital/challenge-back-end-hit)
+| :brazil: | [Anota AI](https://anota.ai/home/) | Node.js, Express, Mongo DB | [Code →](https://github.com/githubanotaai/new-test-backend-nodejs)
 | :uk: | [Apolitical](https://apolitical.co/home) | Node.js, Express, Docker | [Code →](https://gitlab.com/apolitical/code-tests/backend-code-challenge)
 | :brazil: | [BCredi](https://www.creditas.com/bcredi) | Java or Ruby | [Code →](https://github.com/bcredi/teste-backends)
 | :brazil: | [B2W](https://ri.americanas.io/) | Java or Elixir | [Code →](https://github.com/b2w-marketplace/challenge-backend)
