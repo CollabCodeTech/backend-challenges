@@ -46,6 +46,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [iCasei](http://icasei.com.br/) | Ruby, Rails & JavaScript | [Code →](https://github.com/icasei/teste-backend)
 | :uruguay: | [Ingenious](http://ingenious.agency/) | Ruby, .Net, Node.js or Python | [Code →](https://github.com/ingsw-dev/backend-test)
 | :brazil: | [Kinvo](https://kinvo.com.br/) | C#, REST API | [Code →](https://github.com/kinvoapp/kinvo-back-end-test)
+| :brazil: | [Kinvo](https://kinvo.com.br/) | Typescript, Node.js, REST API or GraphQL | [Code →](https://github.com/kinvoapp/node.js-challenge)
 | :brazil: | [Olist](https://olist.com/) | Python or Go | [Code →](https://github.com/olist/work-at-olist)
 | :brazil: | Oli Saúde | Any Language & Any Framework | [Code →](https://github.com/olisaude/teste-dev-backend)
 | :us: | [Ontraport](https://ontraport.com/) | Any Language | [Code →](https://github.com/Ontraport/Backend-Test)
