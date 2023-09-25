@@ -18,7 +18,6 @@ Feel free to contribute! Only open-source challenges please!
 | :canada: | [AlayaCare - 1](https://www.alayacare.com/) | Python, Flask, SQLite | [Code →](https://github.com/AlayaCare/backend-python-test)
 | :canada: | [AlayaCare - 2](https://www.alayacare.com/) | PHP, Silex, MySQL | [Code →](https://github.com/AlayaCare/backend-php-test)
 | :fr: | [AirCall](https://aircall.io/) | Ruby & Rails | [Code →](https://github.com/aircall/backend-test-5)
-| :brazil: | [Amaro](https://amaro.com/) | PHP | [Code →](https://github.com/amarofashion/back-end-challenge)
 | :us: | [Ambulnz](http://www.ambulnz.com/) | (Node.js or Ruby) & Any Framework | [Code →](https://github.com/AmbulnzLLC/fullstack-challenge/tree/master/backend)
 | :brazil: | [AmeDigital](https://www.amedigital.com/) | Kotlin, Scala, Java | [Code →](https://github.com/AmeDigital/challenge-back-end-hit)
 | :brazil: | [Anota AI](https://anota.ai/home/) | Node.js, Express, Mongo DB | [Code →](https://github.com/githubanotaai/new-test-backend-nodejs)
