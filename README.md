@@ -59,6 +59,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [PagarMe](https://pagar.me/) | Node.js, REST API | [Code →](https://github.com/pagarme/vagas/blob/master/desafios/software-engineer-backend/README.md)
 | :canada: | [Paytm Labs - 1](https://paytmlabs.com/) | (Machine Learning) Java or Scala & Hadoop or Spark | [Code →](https://github.com/PaytmLabs/WeblogChallenge)
 | :canada: | [Paytm Labs - 2](https://paytmlabs.com/) | Any Language | [Code →](https://github.com/PaytmLabs/SoftwareChallenge)
+| :brazil: | [Perfect Pay](https://perfectpay.com.br/) | PHP, Laravel | [Code →](https://github.com/perfectpay/perfect-test-backend)
 | :brazil: | [Petlove](https://www.petlove.com.br/) | Ruby, Rails & Any Database | [Code →](https://github.com/petlove/vagas/tree/master/backend-ruby)
 | :uk: | [PhotoBox](http://www.photobox.co.uk/) | .NET | [Code →](https://github.com/photobox/Moonpig.Recruitment)
 | :brazil: | [PicPay](https://picpay.com/) | Java (Spring Boot), PHP (Lumen) & (MySQL or MongoDB) | [Code →](https://github.com/PicPay/picpay-desafio-backend)
