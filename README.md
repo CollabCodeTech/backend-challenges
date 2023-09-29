@@ -77,6 +77,8 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | Wirecard Brasil | Any Language, REST API | [Code →](https://github.com/wirecardBrasil/challenge/tree/master/backend)
 | :cn: | [Wiredcraft](https://wiredcraft.com) | Node.js, Any Framework, Any Database, REST API | [Code →](https://github.com/Wiredcraft/test-backend)
 | :brazil: | [Zé Delivery](https://www.ze.delivery) | Any Language, REST API or GraphQL | [Code →](https://github.com/ZXVentures/ze-code-challenges/blob/master/backend.md)
+| :nigeria: | [Rise Vest](https://risevest.com/) | NodeJs (TypeScript & Express) or Go, Postgres, Redis, Docker & S3/Cloud Storage Provider | [Code →](https://github.com/risevest/backend-test)
+| :us: | [StackPath](https://www.stackpath.com/) | Go | [Code →](https://github.com/stackpath/backend-developer-tests)
 
 ## Inspiration
 
