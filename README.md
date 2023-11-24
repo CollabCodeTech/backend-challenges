@@ -44,6 +44,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | Foton Tech | Node.js, GraphQL, MongoDB, Typescript | [Code →](https://github.com/FotonTech/join)
 | :brazil: | [GetNinjas - 1](https://www.getninjas.com.br/) | Any Language & Docker | [Code →](https://github.com/getninjas/backend-rover-challenge)
 | :brazil: | [GetNinjas - 2](https://www.getninjas.com.br/) | Ruby, Rails & Any Database | [Code →](https://github.com/getninjas/backend-challenge)
+| :de: | [Gigs](https://gigs.com/) | Go or Ruby | [Code →](https://github.com/gigs-hiring/backend-challenge)
 | :brazil: | [Goomer](https://goomer.com.br/) | Node.js, REST API, MySQL or Postgres | [Code →](https://github.com/goomerdev/job-dev-backend-interview)
 | :brazil: | [HurbCom](https://www.hurb.com/) | Any Language & Any Framework | [Code →](https://github.com/hurbcom/challenge-bravo)
 | :brazil: | [iCasei](http://icasei.com.br/) | Ruby, Rails & JavaScript | [Code →](https://github.com/icasei/teste-backend)
