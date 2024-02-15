@@ -65,6 +65,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [PicPay](https://picpay.com/) | Java (Spring Boot), PHP (Lumen) & (MySQL or MongoDB) | [Code →](https://github.com/PicPay/picpay-desafio-backend)
 | :brazil: | [RedFoxTech](https://redfox.tech/) | Node.js, REST API & Any Database | [Code →](https://github.com/RedFoxTech/vaga-backend-teste)
 | :brazil: | [Riderize](https://www.riderize.com/) | Node.js & GraphQL | [Code →](https://github.com/Riderize/backend-test)
+| :brazil: | [Blue Company](https://www.saudeblue.com/) | PHP & Symfony | [Code →](https://github.com/blue-company/desafio-backend)
 | :nigeria: | [Rise Vest](https://risevest.com/) | Node.js (TypeScript & Express) or Go, Postgres, Redis, Docker & S3/Cloud Storage Provider | [Code →](https://github.com/risevest/backend-test)
 | :uk: | [SamKnows](https://www.samknows.com/) | PHP | [Code →](https://github.com/SamKnows/backend-engineering-test/blob/master/README.md)
 | :norway: | [Schibsted](https://schibsted.com/) |Java or Kotlin | [Code →](https://github.com/scm-spain/ms-ma--backend-test)
