@@ -31,7 +31,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [DevPartner](http://www.devpartner.com.br/) | C-Sharp, Entity Framework, Asp.net & Web API | [Code →](https://github.com/DevPartner-BR/backend-projects-test)
 | :brazil: | [DinDigital](https://dindigital.io/) | PHP, Laravel, Docker | [Code →](https://github.com/dindigital/teste-back-end-2019)
 | :brazil: | [Entria](https://www.entria.com.br) | Node.js, Koa.js, REST API and GraphQL | [Code →](https://github.com/entria/jobs#backend-allocated-or-remote)
-| :brazil: | [Estante Virtual](https://www.estantevirtual.com.br/) | Ruby, REST API | [Code →]([https://github.com/estantevirtual/vagas/blob/master/desafios/backend.md](https://github.com/estantevirtual/teste_ev))
+| :brazil: | [Estante Virtual](https://www.estantevirtual.com.br/) | Ruby, REST API | [Code →](https://github.com/estantevirtual/teste_ev)
 | :brazil: | [FCamara - 1](http://www.fcamara.com.br/) | Java, Rest API | [Code →](https://github.com/fcamarasantos/backend-test-java)
 | :brazil: | [FCamara - 2](http://www.fcamara.com.br/) | Node.js, React, Rest API | [Code →](https://github.com/fcamarasantos/node-react-test)
 | :brazil: | [FCamara - 3](http://www.fcamara.com.br/) | .NET, Entity Framework, Rest API | [Code →](https://github.com/fcamarasantos/backend-test-dotnet)
