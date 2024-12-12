@@ -34,8 +34,6 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [DevPartner](http://www.devpartner.com.br/) | C-Sharp, Entity Framework, Asp.net & Web API | [Code →](https://github.com/DevPartner-BR/backend-projects-test)
 | :brazil: | [DinDigital](https://dindigital.io/) | PHP, Laravel, Docker | [Code →](https://github.com/dindigital/teste-back-end-2019)
 | :brazil: | [DogHero](https://www.doghero.com.br/) | Ruby, API | [Code →](https://github.com/doghero/test-backend/wiki/Test-Case)
-| :us: | [Eaze - 1](https://www.eaze.com/) | Node.js or .NET Core | [Code →](https://github.com/eaze/take-home-backend)
-| :us: | [Eaze - 2](https://www.eaze.com/) | .NET, Quartz & Tests | [Code →](https://github.com/eaze/interview-dotnet-test)
 | :brazil: | [Entria](https://www.entria.com.br) | Node.js, Koa.js, REST API and GraphQL | [Code →](https://github.com/entria/jobs#backend-allocated-or-remote)
 | :brazil: | [Estante Virtual](https://www.estantevirtual.com.br/) | Ruby, REST API | [Code →](https://github.com/estantevirtual/vagas/blob/master/desafios/backend.md)
 | :brazil: | [FCamara - 1](http://www.fcamara.com.br/) | Java, Rest API | [Code →](https://github.com/fcamarasantos/backend-test-java)
