@@ -77,6 +77,8 @@ Feel free to contribute! Only open-source challenges please!
 | :sweden: | [Volvo Cars](https://www.volvocars.com/) | Any Language | [Code →](https://github.com/volvo-cars/congestion-tax-calculator)
 | :brazil: | Wirecard Brasil | Any Language, REST API | [Code →](https://github.com/wirecardBrasil/challenge/tree/master/backend)
 | :cn: | [Wiredcraft](https://wiredcraft.com) | Node.js, Any Framework, Any Database, REST API | [Code →](https://github.com/Wiredcraft/test-backend)
+| :brazil: | [Woovi - 1](https://woovi.com) | MongoDB, NodeJS, Koa & GraphQL | [Code →](https://github.com/woovibr/jobs/blob/main/challenges/crud-bank-graphql-relay.md)
+| :brazil: | [Woovi - 2](https://woovi.com) | Node.js, Typescript & Koa | [Code →](https://github.com/woovibr/jobs/blob/main/challenges/woovi-leaky-bucket-challenge.md)
 | :brazil: | [Zé Delivery](https://www.ze.delivery) | Any Language, REST API or GraphQL | [Code →](https://github.com/ZXVentures/ze-code-challenges/blob/master/backend.md)
 
 ## Inspiration
