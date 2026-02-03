@@ -59,6 +59,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [Orbital - 2](https://orbital.company/) | Node.js | [Code →](https://gitlab.com/orbital-code/orbital/tests/backend-developer-node.js)
 | :mexico: | [ORCA Grc](https://www.orcagrc.com/) | Java, Hibernate | [Code →](https://github.com/ORCAapplicants/backend-test)
 | :us: | [Origin Financial](https://www.useorigin.com/) | Any Language | [Code →](https://github.com/OriginFinancial/origin-backend-take-home-assignment)
+| :jp: | [Paidy](https://paidy.com/) | Scala | [Code →](https://github.com/paidy/interview)
 | :canada: | [Paytm Labs - 1](https://paytmlabs.com/) | (Machine Learning) Java or Scala & Hadoop or Spark | [Code →](https://github.com/PaytmLabs/WeblogChallenge)
 | :canada: | [Paytm Labs - 2](https://paytmlabs.com/) | Any Language | [Code →](https://github.com/PaytmLabs/SoftwareChallenge)
 | :brazil: | [Perfect Pay](https://perfectpay.com.br/) | PHP, Laravel | [Code →](https://github.com/perfectpay/perfect-test-backend)
